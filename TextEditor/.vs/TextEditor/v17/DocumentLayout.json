@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Delete.cshtml",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\TextEditor\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
               "RelativeToolTip": "TextEditor\\Views\\Docs\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAsAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwB4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-09T08:33:00.281Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "TextEditor\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T21:15:01.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:15:01.289Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "TextEditor\\Views\\Docs\\Create.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T21:04:29.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:04:29.9Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "TextEditor\\Controllers\\DocsController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAuwB0AAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:49:14.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T20:49:14.093Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "TextEditor\\Views\\Docs\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T21:28:47.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:28:47.761Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "TextEditor\\Views\\Docs\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-09T07:33:28.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T07:33:28.684Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "TextEditor\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:39:06.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T20:39:06.394Z"
             },
             {
               "$type": "Document",
